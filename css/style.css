@@ -1,0 +1,33 @@
+div{
+    border: 1px solid black;
+    width: 40%;
+    height: 400px;
+    justify-content: center;
+}
+
+main{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flx-col-ctr{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+button{
+    width: 100%;
+    height: 50px;
+    margin: 10px auto;
+}
+
+h2{
+    font-size: 70px;
+}
+
+.winner {
+    font-size: 90px;
+    color: green;
+}
